@@ -63,7 +63,7 @@ Each team has:
 ## 💬 Community / Communauté
 
 - 💻 Join the [official Twitter/X](https://x.com/tekbot_robotics)  
-  💻 Rejoins le [Discord Twitter/X](https://x.com/tekbot_robotics)
+  💻 Rejoins le [Twitter/X Officiel](https://x.com/tekbot_robotics)
 
 - 📸 Follow us on [Instagram](https://instagram.com/tekbot_robotics)  
   📸 Suivez-nous sur [Instagram](https://instagram.com/tekbot_robotics)
