@@ -10,7 +10,7 @@ Pour accéder au site officiel de la compétition, c'est ici !! (https://trc.tek
 
 
 Pour accéder à la documentation officielle de la compétition et pouvoir naviguer sur celles des différentes équipes pour chaque édition, les liens c'est par ici: 
-- [2025 Edition](https://tekbot-robotics-challenge.github.io/2025-docs/)
+- [2025 Edition](https://tekbot-robotics-challenge.github.io/2025-Docs/)
 
 ---
 
