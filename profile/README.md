@@ -6,8 +6,11 @@ Bienvenue au **Tekbot Robotics Challenge 2025 (TRC)** – une compétition étud
 TRC is more than a competition — it’s a collaborative, technical, and human adventure.  
 Le TRC, c’est bien plus qu’un concours : c’est une aventure technique, humaine et collaborative.
 
-Pour accéder au site officiel de la compétition, c'est ici !! (https://trc.tekbot.io/)
-Pour accéder à la documentation officielle de la compétition et pouvoir naviguer sur celles des différentes équipes, le lien c'est par ici: https://trc-2025.github.io/2025-Docs/
+Pour accéder au site officiel de la compétition, c'est ici !! (https://trc.tekbot.io/).
+
+
+Pour accéder à la documentation officielle de la compétition et pouvoir naviguer sur celles des différentes équipes pour chaque édition, les liens c'est par ici: 
+- [2025 Edition](https://tekbot-robotics-challenge.github.io/2025-docs/)
 
 ---
 
