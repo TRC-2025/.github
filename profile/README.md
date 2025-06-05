@@ -1,15 +1,17 @@
-# 🤖 TRC 2025 – Tekbot Robotics Challenge
+# 🤖 TRC 2025 – TekBot Robotics Challenge
 
-Welcome to the **Tekbot Robotics Challenge 2025 (TRC)** – a student robotics competition organized by the **Tekbot association**, bringing together multidisciplinary teams from universities across all Africa!  
-Bienvenue au **Tekbot Robotics Challenge 2025 (TRC)** – une compétition étudiante de robotique organisée par l’**association Tekbot**, réunissant des équipes pluridisciplinaires issues d’universités de toute l'Afrique !
+Welcome to the **TekBot Robotics Challenge 2025 (TRC)** – a student robotics competition organized by the **TekBot Robotics association**, bringing together multidisciplinary teams from universities across all Africa!  
+Bienvenue au **TekBot Robotics Challenge 2025 (TRC)** – une compétition étudiante de robotique organisée par l’**association TekBot Robotics**, réunissant des équipes pluridisciplinaires issues d’universités de toute l'Afrique !
 
 TRC is more than a competition — it’s a collaborative, technical, and human adventure.  
 Le TRC, c’est bien plus qu’un concours : c’est une aventure technique, humaine et collaborative.
 
-Pour accéder au site officiel de la compétition, c'est ici !! (https://trc.tekbot.io/).
+To access the competition official site, it's here !! (https://trc.tekbot.io/)
+Pour accéder au site officiel de la compétition, c'est ici !! (https://trc.tekbot.io/)
 
-
+To access the official documentation for the competition and to browse the documentation for the different teams in each edition, click here:
 Pour accéder à la documentation officielle de la compétition et pouvoir naviguer sur celles des différentes équipes pour chaque édition, les liens c'est par ici: 
+
 - [2025 Edition](https://tekbot-robotics-challenge.github.io/2025-Docs/)
 
 ---
@@ -32,8 +34,8 @@ Encourager l’innovation, la collaboration interdisciplinaire et l’excellence
 - ⚙️ Each team is divided into three specialized sub-teams:  
   ⚙️ Chaque équipe est structurée en trois sous-équipes spécialisées :
 
-  - 🧠 **IT** – Software, embedded systems, algorithms  
-    🧠 **Informatique** – Logiciel, systèmes embarqués, algorithmes
+  - 🧠 **IT** – Software, embedded systems, algorithms, IA 
+    🧠 **Informatique** – Logiciel, systèmes embarqués, algorithmes, IA
 
   - 🔌 **Electronics** – Sensors, actuators, controllers  
     🔌 **Électronique** – Capteurs, actionneurs, contrôleurs
@@ -46,8 +48,8 @@ Encourager l’innovation, la collaboration interdisciplinaire et l’excellence
 ## 🧠 Structure
 
 Each team has:
-- A dedicated **GitHub repository** for documentation and collaboration of their work  
-  Un **dépôt GitHub dédié** pour la documentation et la collaboration de leur travail
+- Two dedicated **GitHub repository**: one for documentation and the other one for collaboration on their work for the challenge
+  Deux **dépôt GitHub dédié**: un pour la documentation et un autre pour la collaboration sur leur travail sur le challenge
 
 - Automated workflows and templates to support development  
   Des **modèles et automatisations GitHub Actions** pour faciliter le travail
@@ -60,7 +62,6 @@ Each team has:
 ## 📚 Resources / Ressources
 
 - [Official Rulebook / Règlement officiel](https://example.com/rules)
-- [Team Registration / Inscription des équipes](https://example.com/registration)
 - [Getting Started Guide / Guide de démarrage](https://example.com/getting-started)
 - [Documentation Template / Modèle de documentation](https://github.com/TRC-2025/team-docs-template)
 
@@ -74,8 +75,11 @@ Each team has:
 - 📸 Follow us on [Instagram](https://instagram.com/tekbot_robotics)  
   📸 Suivez-nous sur [Instagram](https://instagram.com/tekbot_robotics)
 
-- 🧑‍🏫 Monthly mentor-led workshops and Q&A sessions  
-  🧑‍🏫 Ateliers mensuels et permanences avec des mentors
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/company/tekbot-robotics)  
+  💼 Connecte-toi sur [LinkedIn](https://www.linkedin.com/company/tekbot-robotics)
+
+- 🧑‍🏫 Weekly mentor-led workshops and Q&A sessions  
+  🧑‍🏫 Ateliers hebdomadaires et permanences avec des mentors
 
 ---
 
@@ -92,13 +96,13 @@ Each team has:
 
 ---
 
-## 🚀 Let’s Build the Future – Together  
+## 🚀 Let’s Build the Future – Together
 ## 🚀 Construisons l’avenir – ensemble
 
 This GitHub organization is the hub for your team’s collaboration, documentation, and progress.  
-Ce compte GitHub est le centre de gravité de votre équipe pour collaborer, documenter et progresser.
+Cette Organisation GitHub est le centre de gravité de votre équipe pour collaborer, documenter et progresser.
 
 Good luck to all teams!  
 Bonne chance à toutes les équipes !
 
-**– The Tekbot Robotics Association / L’association Tekbot Robotics**
+**– The TekBot Robotics Association / L’association TekBot Robotics**
